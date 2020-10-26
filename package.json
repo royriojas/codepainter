@@ -35,7 +35,7 @@
     "editorconfig": "~0.11.3",
     "esprima": "~1.0.3",
     "gitlike-cli": "~0.0.9",
-    "glob": "~3.2.1",
+    "glob": "~5.0.15",
     "mkdirp": "~0.3.5",
     "memorystream": "~0.2.0",
     "node.extend": "~1.0.7"
